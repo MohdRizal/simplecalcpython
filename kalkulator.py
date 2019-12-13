@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
     gui.configure(background = "light green")
 
-    gui.title("Simple Pom Bensin")
+    gui.title("Belajar Kalkulator")
 
     gui.geometry("265x125")
 
